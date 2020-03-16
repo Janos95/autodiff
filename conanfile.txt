@@ -1,0 +1,8 @@
+[requires]
+eigen/3.3.7
+tbb/2020.0
+
+[generators]
+cmake_find_package_multi
+
+
